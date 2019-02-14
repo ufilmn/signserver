@@ -1,0 +1,17 @@
+/* 
+ * signserver.org specific styling 
+ *
+ * $Id: site.css 7274 2016-05-06 09:20:21Z netmackan $
+ */
+
+.content {
+    margin-bottom: 1em;
+    background-color: #f0f0f0;
+    padding: 0.5em;
+}
+
+.label {
+    /* background-color: #8ca8d0; */
+    display: block;
+    padding: 0.5em;
+}
